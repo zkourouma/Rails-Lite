@@ -1,0 +1,2 @@
+class Flash < Session
+end
